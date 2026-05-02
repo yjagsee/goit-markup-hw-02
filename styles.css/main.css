@@ -1,0 +1,19 @@
+@import './common.css';
+@import './header.css';
+@import './hero.css';
+@import './features.css';
+@import './team.css';
+@import './portfolio.css';
+@import './footer.css';
+
+body {
+    color: #2e2f42;
+}
+
+.accent-word {
+    color: #4d5ae5;
+}
+
+.button {
+    background-color: #4d5ae5;
+}
