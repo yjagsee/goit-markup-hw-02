@@ -10,6 +10,17 @@
 
 .hero .button {
     text-align: left;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    background-color: #4d5ae5;
+    cursor: pointer;
+}
+
+.hero .button:focus,
+.hero .button:hover {
+    background-color: #404bbf;
 }
 
 .hero .list .seсtion-title {

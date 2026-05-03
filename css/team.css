@@ -4,6 +4,7 @@
     line-height: 1.11111;
     letter-spacing: 0.02em;
     text-align: center;
+    color: #2e2f42;
 }
 
 .team .subtitle {
@@ -12,6 +13,7 @@
     line-height: 1.2;
     letter-spacing: 0.02em;
     text-align: center;
+    color: #2e2f42;
 }
 
 .team .text {
@@ -20,6 +22,7 @@
     line-height: 1.5;
     letter-spacing: 0.02em;
     text-align: center;
+    color: #434455;
 }
 
 .team{
