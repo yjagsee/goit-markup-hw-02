@@ -16,4 +16,15 @@
 .address .link-mailto,
 .address .link-tel {
     font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    font-style: normal;
+    color: #434455;
+    text-decoration: none;
+}
+
+.address .link-mailto:focus, .address .link-mailto:hover,
+.address .link-tel:focus, .address .link-tel:hover {
+    color: #404bbf;
 }
