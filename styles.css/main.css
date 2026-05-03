@@ -8,6 +8,8 @@
 
 body {
     color: #2e2f42;
+    font-size: 16px;
+    line-height: 1.5;
 }
 
 .accent-word {
@@ -16,4 +18,39 @@ body {
 
 .button {
     background-color: #4d5ae5;
+}
+
+.link {
+    color: inherit;
+    text-decoration: none;
+}
+
+.address {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: №434455;
+}
+
+.address:hover,
+.address:focus {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #404bbf;
+}
+
+ul, ol {
+    list-style-type: none;
+}
+
+.link:hover,
+.link:focus {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #404bbf;
 }
