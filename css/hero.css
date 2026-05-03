@@ -16,6 +16,7 @@
     letter-spacing: 0.04em;
     background-color: #4d5ae5;
     cursor: pointer;
+    color: #ffffff;
 }
 
 .hero .button:focus,
